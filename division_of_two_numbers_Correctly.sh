@@ -7,7 +7,7 @@ echo "the result is: $RESULT"
 
 #Result need to be
 if [[ $RESULT -eq 2 ]]; then
-  echo "Result is 2"
+  echo "Sucess"
 else
-  echo "error occur"
+  echo "Fail"
 fi
